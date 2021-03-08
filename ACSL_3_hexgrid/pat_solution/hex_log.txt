@@ -1,0 +1,54 @@
+input tuple: <class '__main__.Inp_line'>
+input Inp_line(row='B', col='2', moves='22435')
+input tuple: <class '__main__.Inp_line'>
+input Inp_line(row='B', col='2', moves='22435')
+input tuple: <class '__main__.Inp_line'>
+input Inp_line(row='B', col='2', moves='22435')
+input tuple: <class '__main__.Inp_line'>
+input Inp_line(row='B', col='2', moves='22435')
+input tuple: <class '__main__.Inp_line'>
+input Inp_line(row='B', col='2', moves='22435')
+input tuple: <class '__main__.Inp_line'>
+input Inp_line(row='B', col='2', moves='22435')
+result: A1
+
+result: 0
+
+result: 0
+
+result: 0
+
+result: 0
+
+result: 0
+
+result: 0
+
+result: 0
+
+result: 0
+
+result: 0
+
+input tuple: <class '__main__.Inp_line'>
+input Inp_line(row='B', col='2', moves='22435')
+result: A1
+
+result: 0
+
+result: 0
+
+result: 0
+
+result: 0
+
+result: 0
+
+result: 0
+
+result: 0
+
+result: 0
+
+result: 0
+
